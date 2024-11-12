@@ -1,0 +1,25 @@
+.header {
+    background-color: #4a90e2;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  .title {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .nav a {
+    margin: 0 1em;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  .nav a:hover {
+    color: #ffcc00;
+  }
+  

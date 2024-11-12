@@ -1,0 +1,15 @@
+.adivinanza {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  .adivinanza:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .respuesta {
+    margin-top: 16px;
+    color: #ff5733;
+  }
+  
